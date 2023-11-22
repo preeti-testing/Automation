@@ -1,0 +1,41 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<testng-results ignored="0" total="1" passed="1" failed="0" skipped="0">
+  <reporter-output>
+  </reporter-output>
+  <suite started-at="2023-11-08T16:12:30 IST" name="Default suite" finished-at="2023-11-08T16:12:53 IST" duration-ms="22809">
+    <groups>
+    </groups>
+    <test started-at="2023-11-08T16:12:30 IST" name="Default test" finished-at="2023-11-08T16:12:53 IST" duration-ms="22809">
+      <class name="OrganizationTest.CreateOrganizationWithIndustryNameTest">
+        <test-method is-config="true" signature="bsConfig()[pri:0, instance:OrganizationTest.CreateOrganizationWithIndustryNameTest@7eac9008]" started-at="2023-11-08T16:12:30 IST" name="bsConfig" finished-at="2023-11-08T16:12:30 IST" duration-ms="14" status="PASS">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- bsConfig -->
+        <test-method is-config="true" signature="bcConfig()[pri:0, instance:OrganizationTest.CreateOrganizationWithIndustryNameTest@7eac9008]" started-at="2023-11-08T16:12:30 IST" name="bcConfig" finished-at="2023-11-08T16:12:36 IST" duration-ms="5954" status="PASS">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- bcConfig -->
+        <test-method is-config="true" signature="bmConfig()[pri:0, instance:OrganizationTest.CreateOrganizationWithIndustryNameTest@7eac9008]" started-at="2023-11-08T16:12:36 IST" name="bmConfig" finished-at="2023-11-08T16:12:40 IST" duration-ms="3461" status="PASS">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- bmConfig -->
+        <test-method signature="createNewOrgWithIndustryTest()[pri:0, instance:OrganizationTest.CreateOrganizationWithIndustryNameTest@7eac9008]" started-at="2023-11-08T16:12:40 IST" name="createNewOrgWithIndustryTest" finished-at="2023-11-08T16:12:50 IST" duration-ms="10107" status="PASS">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- createNewOrgWithIndustryTest -->
+        <test-method is-config="true" signature="amConfig()[pri:0, instance:OrganizationTest.CreateOrganizationWithIndustryNameTest@7eac9008]" started-at="2023-11-08T16:12:50 IST" name="amConfig" finished-at="2023-11-08T16:12:52 IST" duration-ms="2743" status="PASS">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- amConfig -->
+        <test-method is-config="true" signature="acConfig()[pri:0, instance:OrganizationTest.CreateOrganizationWithIndustryNameTest@7eac9008]" started-at="2023-11-08T16:12:52 IST" name="acConfig" finished-at="2023-11-08T16:12:53 IST" duration-ms="496" status="PASS">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- acConfig -->
+        <test-method is-config="true" signature="asConfig()[pri:0, instance:OrganizationTest.CreateOrganizationWithIndustryNameTest@7eac9008]" started-at="2023-11-08T16:12:53 IST" name="asConfig" finished-at="2023-11-08T16:12:53 IST" duration-ms="0" status="PASS">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- asConfig -->
+      </class> <!-- OrganizationTest.CreateOrganizationWithIndustryNameTest -->
+    </test> <!-- Default test -->
+  </suite> <!-- Default suite -->
+</testng-results>
