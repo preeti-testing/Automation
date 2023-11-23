@@ -58,8 +58,10 @@
  
  
  </dependencies> 
-  
-  <build>
+ <profiles>
+ <profile>
+ <id>smoke</id>
+ <build>
   <plugins>
     
       <plugin>
@@ -76,6 +78,15 @@
 </plugins>
 
 </build>
+ 
+ 
+ 
+ </profile>
+ 
+ 
+ </profiles>
+  
+  
   
   
   
